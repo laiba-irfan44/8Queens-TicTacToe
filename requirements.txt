@@ -16,3 +16,7 @@ qpsolvers
 scipy
 sortedcontainers
 tensorflow
+
+
+scikit-learn
+
